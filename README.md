@@ -1,6 +1,6 @@
 
 
-\# CS1101S Sumobot, group Optimum Prime
+# CS1101S Sumobot, group Optimum Prime
 
 
 
@@ -8,7 +8,7 @@ NUS SoC 2025/2026 CS1101S Sumobot Contest Code
 
 
 
-\## Rules
+## Rules
 
 
 
@@ -23,7 +23,7 @@ The objective of the tournament is to push your opponent's Sumobot out of the ri
 
 
 
-!\[Dohyo](./images/dohyo.png)
+[Dohyo](./images/dohyo.png)
 
 
 
@@ -33,19 +33,19 @@ The team's robot is expected to **run autonomously** once the match has started.
 
 
 
-\[More Details about the Rules](https://docs.google.com/document/d/1gJDufBuj2HXPHSgPBAmPRw5\_167x86QxFkUvm-XeXcY/edit?tab=t.0#heading=h.gjdgxs)
+[More Details about the Rules](https://docs.google.com/document/d/1gJDufBuj2HXPHSgPBAmPRw5\_167x86QxFkUvm-XeXcY/edit?tab=t.0#heading=h.gjdgxs)
 
 
 
 
 
-\## Images
+## Images
 
 
 
 Here's our team!
 
-!\[Winners](./images/winners.png)
+![Winners](./images/winners.png)
 
 
 
@@ -53,7 +53,7 @@ Here's our team!
 
 Our robot:
 
-!\[Robot](./images/robot1.jpg)
+![Robot](./images/robot1.jpg)
 
 
 
