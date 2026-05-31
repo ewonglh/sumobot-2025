@@ -23,7 +23,7 @@ The objective of the tournament is to push your opponent's Sumobot out of the ri
 
 
 
-[Dohyo](./images/dohyo.png)
+![Dohyo](./images/dohyo.png)
 
 
 
